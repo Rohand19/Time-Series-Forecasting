@@ -15,7 +15,7 @@ Follow these steps to build and run the application using Docker.
 
 ### 1️⃣ Clone the Repository
 ```bash
- git clone https://github.com/Rohand19/ml-docker-app.git
+ git clone https://github.com/Rohand19/Time-Series-Forecasting.git
  cd ml-docker-app
 ```
 
